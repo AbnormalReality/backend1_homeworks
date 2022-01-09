@@ -65,7 +65,7 @@ paths:
       tags:
         - Order
     parameters: []
-  '/orders/all/':
+  '/orders/':
     get:
       operationId: order list view
       description: ''
