@@ -1,0 +1,5 @@
+app:
+  logLevel: -1
+  serverAddress: "localhost"
+  serverPort: 9000
+  storagePath: "../internal/storage/storage.db"
